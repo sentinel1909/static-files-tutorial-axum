@@ -1,0 +1,5 @@
+name = "axum-static-files"
+
+assets = [
+  "static/"
+]
